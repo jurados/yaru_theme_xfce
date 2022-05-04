@@ -2,7 +2,9 @@
 This is a guide, initially to me, for install the yaru theme over a xfce, specifically the xubuntu distribution.
 
 ![](https://149366088.v2.pressablecdn.com/wp-content/uploads/2019/04/xubuntu-19.04-desktop-screenshot-750x422.jpg)
-![](https://www.omgubuntu.co.uk/2020/01/xubuntu-dark-theme-20-04)
+
+![](https://149366088.v2.pressablecdn.com/wp-content/uploads/2020/01/Xubuntu-20.04-dark-theme-greybird-1536x864.jpg)
+
 Images obtained from (omg!ubuntu!)[https://www.omgubuntu.co.uk/2020/01/xubuntu-dark-theme-20-04]
 
 Firstly, I recommend review this [github](https://github.com/ubuntu/yaru). This will be the main github to make the theme's changing.
