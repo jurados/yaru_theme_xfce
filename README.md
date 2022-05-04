@@ -27,7 +27,7 @@ install
 ## Console color
 
 General
-- **Texto color:** #F7F4DB
+- **Text color:** #F7F4DB
 - **Background color:** #300A24
 - **Tab Active:** #0F4999
 
