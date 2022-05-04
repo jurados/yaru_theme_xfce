@@ -24,7 +24,7 @@ install
 ```
 
 
-### Console color
+## Console color
 
 General
 - **Texto color:** #F7F4DB
@@ -42,3 +42,7 @@ Palette: I'm dividing this section by rows.
 |row_2| #555753 | #EF2929 | #8AE234 | #FCE94F | #729FCF | #AD7FA8 | #34E2E2 | #EEEEEC |
 
 Also you sould select the option `Show bold text in bright colors`.
+
+Finall terminal theme.
+![](https://i.blogs.es/56c9ee/cd/1366_2000.jpg)
+Image obtained from [ganbeta](https://www.genbeta.com/linux/linux-paso-a-paso-los-cinco-comandos-para-la-terminal-que-todo-usuario-de-ubuntu-debe-conocer).
