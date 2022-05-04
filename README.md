@@ -1,6 +1,8 @@
 # Yaru Theme for XFCE
 This is a guide, initially to me, for install the yaru theme over a xfce, specifically the xubuntu distribution.
 
+<img src="https://149366088.v2.pressablecdn.com/wp-content/uploads/2019/04/xubuntu-19.04-desktop-screenshot-750x422.jpg">
+
 Firstly, I recommend review this [github](https://github.com/ubuntu/yaru). This will be the main github to make the theme's changing.
 Secondly, I recommend review these two pages:  [page_one](https://www.linuxuprising.com/2021/09/ubuntus-yaru-theme-gets-official.html) and [page_two](https://news.itsfoss.com/yaru-xfce-support/). There, both realize a brief tutorial code by code (step by step) to obtain the ***yaru theme***, the default theme of Ubuntu+20. In brief these are the codes.
 
